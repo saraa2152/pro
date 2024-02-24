@@ -5,7 +5,7 @@ git push -u origin main---
 ----------------------------------------------------------
 --
 
-for github
+for github 1.0.01
 y4
 ------------------------------------------
 sudo apt update && sudo apt upgrade -y
