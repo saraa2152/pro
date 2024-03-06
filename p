@@ -7,7 +7,7 @@ git push -u origin main---
 
 for github 1.0.01
 y4
-------------------------------------------
+-----------------------------------------------------------------------------------
 sudo apt update && sudo apt upgrade -y
 ---------------------------------------------
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
