@@ -6,7 +6,7 @@ for github 1.0.01
 
 
 
-
+sid
 
 ver g4
 sudo apt update && sudo apt upgrade -y
