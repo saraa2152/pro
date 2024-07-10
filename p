@@ -4,8 +4,6 @@ git push -u origin main---
 for github 1.0.01
 -----------------------------------------------------
 
-
-
 sid
 
 ver g4
